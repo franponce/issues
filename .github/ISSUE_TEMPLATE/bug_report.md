@@ -8,14 +8,14 @@ assignees: ''
 ---
 
 **Recordatorio** [Borrar al cargar]
-:marca_de_verificación_blanca:  Ya busqué y el issue todavía no existe
-:marca_de_verificación_blanca:  [Doc con Tags/Labels]
-:marca_de_verificación_blanca:  Tag del producto a reportar (amarilla)
-:marca_de_verificación_blanca:  Tag de naturaleza (roja)
-### :error:    ¿Qué esperaba que pase? ¿Qué pasó? [Video + descripción]
+:white_check_mark: Ya busqué y el issue todavía no existe
+:white_check_mark: [Doc con Tags/Labels]
+:white_check_mark: Tag del producto a reportar (amarilla)
+:white_check_mark: Tag de naturaleza (roja)
+### :bug:  ¿Qué esperaba que pase? ¿Qué pasó? [Video + descripción]
 **Paso 1**  _Grabá un video en el que se vea el issue y explicá hablando cuál es el problema que ves y como esperarías que funcione el producto. Es condición necesaria que se vea la url en donde estás navegando_
 **Paso 2**  _Escribi una breve descripción e información complementaria que ayude a entender el problema_
-### :fuente_de_información:    Links [Completar solo con los links que apliquen]
+### :heavy_exclamation_mark: Links [Completar solo con los links que apliquen]
 * **Client ID** _(obligatorio siempre)_:
 * **Producto afectado** _(si afecta un producto)_:
 ---
